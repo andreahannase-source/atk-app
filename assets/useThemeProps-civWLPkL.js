@@ -1,0 +1,1 @@
+import{ag as r,ah as a,ai as p}from"./index-92TEuDw2.js";const c=r();function m(n){const{theme:e,name:s,props:o}=n;return!e||!e.components||!e.components[s]||!e.components[s].defaultProps?o:a(e.components[s].defaultProps,o)}function f({props:n,name:e,defaultTheme:s,themeId:o}){let t=p(s);return o&&(t=t[o]||t),m({theme:t,name:e,props:n})}export{m as g,c as s,f as u};
