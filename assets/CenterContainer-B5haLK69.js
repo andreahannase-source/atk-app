@@ -1,0 +1,1 @@
+import{j as e}from"./index-C4XN9VkM.js";import{C as i}from"./Container-BQOa9GoG.js";function m({children:n,...t}){return e.jsx(i,{...t,sx:{display:"flex",minHeight:"calc(100dvh - 24rem) !important",width:"100vw",alignItems:"center",padding:2,justifyContent:"center",...t==null?void 0:t.sx},children:n})}export{m as C};
