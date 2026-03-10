@@ -1,0 +1,1 @@
+import{j as e}from"./index-zF5821NV.js";import{C as i}from"./Container-UxYX_Zbv.js";function m({children:n,...t}){return e.jsx(i,{...t,sx:{display:"flex",minHeight:"calc(100dvh - 24rem) !important",width:"100vw",alignItems:"center",padding:2,justifyContent:"center",...t==null?void 0:t.sx},children:n})}export{m as C};
