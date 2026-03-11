@@ -1,1 +1,0 @@
-import{j as x}from"./index-92TEuDw2.js";import{C as m}from"./Card-BU1XLOzi.js";function u({children:a=null,...t}){return x.jsx(m,{...t,sx:{p:2,...t==null?void 0:t.sx},children:a})}export{u as default};
