@@ -1,1 +1,0 @@
-import{j as n,B as i}from"./index-DkrMwZy1.js";function x({html:e,...t}){return n.jsx(i,{className:"html-view",...t,sx:{textAlign:"justify",...t==null?void 0:t.sx},component:"div",dangerouslySetInnerHTML:{__html:e}})}export{x as H};

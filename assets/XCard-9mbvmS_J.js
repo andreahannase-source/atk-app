@@ -1,0 +1,1 @@
+import{j as x}from"./index-DrHB2d7C.js";import{C as m}from"./Card-9MVhuK6h.js";function u({children:a=null,...t}){return x.jsx(m,{...t,sx:{p:2,...t==null?void 0:t.sx},children:a})}export{u as default};
